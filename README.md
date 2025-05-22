@@ -34,9 +34,6 @@ Pomona, CA — a dense urban region in Los Angeles County with known traffic con
 ## 📂 Repository Contents
 - `docs/` – Project report, StoryMap (PDF), and slide deck
 - `data/` – Raw & processed GIS datasets
-- `maps/` – High-resolution visuals of spatial analysis
-- `analysis/` – Notes & methodology explanations
-- `scripts/` – ArcGIS Python notebook (for drive-time and buffer analysis)
 
 ## 📊 StoryMap Demo
 View the full interactive ArcGIS StoryMap:  
